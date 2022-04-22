@@ -131,6 +131,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 # Adding Random number 
-random_numbers.ipynb
+random_numbers.ipynb_checkpoints
 
-Google_Nearby_Search.ipynb
+Google_Nearby_Search.ipynb_checkpoints
